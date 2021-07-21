@@ -1,2 +1,2 @@
 # Week-H-c-C
- Các phần cần học C
+ Mình học C cô ChiLP
